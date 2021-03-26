@@ -9,7 +9,7 @@ const loading = ({loading,message}) => {
                 <Spinner 
                     name='pline-spin-fade-loader' 
                     fadeIn='none' 
-                    color='yellow' 
+                    color='blue' 
                 /> 
                 <span className='message'> 
                     {message} 
